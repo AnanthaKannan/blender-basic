@@ -113,6 +113,12 @@ Material             |  Composting                    | Outpu
 ### Set World
 [](./img_002.PNG)
 
+### Bone
+### Follow Look
+[](./img_008.PNG)
+### IK Constrain
+[](./img_009.PNG)
+
 #### Description
 1. EM - edit mode
 2. OM - object mode
